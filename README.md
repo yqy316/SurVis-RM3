@@ -1,7 +1,5 @@
 # SurVis - Large Language Models: Prompting Techniques and Knowledge Enhancement Methods
 
-# Large Language Model Evolution and Techniques - SurVis Visualization Interface
-
 ## Project Introduction
 
 This SurVis visualization interface collects 10 key papers in the field of large language models, spanning from the fundamental Transformer architecture to the latest Retrieval-Augmented Generation (RAG) techniques. This interactive visualization tool allows researchers, students, and practitioners to easily explore and analyze the relationships, timeline, and thematic distribution of these important publications.
